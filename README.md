@@ -1,4 +1,4 @@
-# MicroCoin-Rust
+# MicroCoin-Rust-éDocs
 
 This directory hosts the documentation of MicroCoin-Rust
-Powered by Vercal and HUGO
+Powered by HUGO
